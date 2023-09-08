@@ -1,0 +1,38 @@
+
+ˆ
+java:S1319
+"kThe type of "pesananList" should be an interface such as "List" rather than the implementation "ArrayList".(ÉıÇ‰8ÏÓ¨ÿ¦1
+:
+java:S2386
+"Make this member "protected".(ÉıÇ‰8¾¸¼ÿ¦1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«”­8äÓ¨ÿ¦1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥À”á8äÓ¨ÿ¦1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«”­8åÓ¨ÿ¦1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8åÓ¨ÿ¦1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Õ·™ÿÿÿÿÿ8åÓ¨ÿ¦1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(²¾Œ÷8æÓ¨ÿ¦1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(·ÓËşÿÿÿÿ8æÓ¨ÿ¦1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ÚÅÊ’üÿÿÿÿ8çÓ¨ÿ¦1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(±‰–â8èÓ¨ÿ¦1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(§Í°8èÓ¨ÿ¦1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(‹ñõ’8èÓ¨ÿ¦1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8éÓ¨ÿ¦1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Õ·™ÿÿÿÿÿ8éÓ¨ÿ¦1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(½”Ø¾ùÿÿÿÿ8éÓ¨ÿ¦1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ãÍÙëüÿÿÿÿ8êÓ¨ÿ¦1
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ÊÑìŸÿÿÿÿÿ8ìÓ¨ÿ¦1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(™¯¥ÿÿÿÿÿ8íÓ¨ÿ¦1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(²èõ±ûÿÿÿÿ8ïÓ¨ÿ¦1
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(‰Î÷˜üÿÿÿÿ8ñÓ¨ÿ¦1
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(ÎÉåÅşÿÿÿÿ8òÓ¨ÿ¦1
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(—•óµüÿÿÿÿ8òÓ¨ÿ¦1
+T	java:S106`"9Replace this use of System.out or System.err by a logger.(Êó‘8óÓ¨ÿ¦1
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(…¶Áç8óÓ¨ÿ¦1
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(ÖÁ©¥8ôÓ¨ÿ¦1
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8ôÓ¨ÿ¦1
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(Øçş£8‹å¼ÿ¦1
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(ŸòÄ¿8‹å¼ÿ¦1
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(’…ëÒ8‹å¼ÿ¦1
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(Ø²»Èúÿÿÿÿ8Œå¼ÿ¦1
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(ñ¾×î8Œå¼ÿ¦1
+T	java:S106v"9Replace this use of System.out or System.err by a logger.(°•Ş8å¼ÿ¦1
